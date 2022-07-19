@@ -1,5 +1,9 @@
 # GUIDELINE FOR USTH PROJECT 1:
 
+### Deadline:
+1. Create Github repository : July 24th
+2. Project submission: August 19th
+
 ## Project name: Projectile Motion
 ## Project description:
 One of the most classic and well-known problems in physics is **projectile motion**.
