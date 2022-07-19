@@ -20,6 +20,7 @@ see ppt slideshow
 2. Initial angle
 3. mass
 4. diameter
+5. Numerical method options: [Euler, Improved Euler, Runge-Kutta]
 ### Output results:
 1. Horizontal range, flight time, highest point
 2. A static plot showing 2D projectile's trajectory
